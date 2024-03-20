@@ -1,0 +1,2 @@
+g++ faceCheak.cpp -o faceCheak1.1 -lopencv_core -lopencv_highgui -lopencv_videoio -lopencv_imgproc -lopencv_objdetect -lopencv_imgcodecs -lcurl -lcrypto -ljsoncpp -std=c++11
+
